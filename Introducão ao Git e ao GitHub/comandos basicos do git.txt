@@ -1,0 +1,4 @@
+cd -> buscar diretorio
+status -> git status
+adicionar todos os arquivos -> git add -A ou git add .
+mandar pra nuvem -> git push origin main
