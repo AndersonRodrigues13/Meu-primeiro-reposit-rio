@@ -2,4 +2,4 @@
 Repositório de estudos da dio
 
 ## Links Úteis
-[Síntaxe básica Markdown] (https://www.markdownguide.org/basic-syntax/)
+[Síntaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
